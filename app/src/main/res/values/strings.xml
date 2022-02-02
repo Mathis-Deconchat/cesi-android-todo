@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CESi -TODO</string>
+    <string name="btn_add_todo">+</string>
+    <string name="txt_add_todo_placeholder">Titre...</string>
+</resources>
